@@ -1,0 +1,10 @@
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\bin\Debug\netcoreapp1.1\CommunicationDevice.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\bin\Debug\netcoreapp1.1\CommunicationDevice.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\bin\Debug\netcoreapp1.1\CommunicationDevice.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\bin\Debug\netcoreapp1.1\CommunicationDevice.App.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\bin\Debug\netcoreapp1.1\CommunicationDevice.App.pdb
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\obj\Debug\netcoreapp1.1\CommunicationDevice.App.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\obj\Debug\netcoreapp1.1\CommunicationDevice.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\obj\Debug\netcoreapp1.1\CommunicationDevice.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\obj\Debug\netcoreapp1.1\CommunicationDevice.App.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.App\obj\Debug\netcoreapp1.1\CommunicationDevice.App.pdb

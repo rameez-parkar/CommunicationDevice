@@ -1,0 +1,15 @@
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.Test.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.App.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\bin\Debug\netcoreapp1.1\CommunicationDevice.App.pdb
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\obj\Debug\netcoreapp1.1\CommunicationDevice.Test.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\obj\Debug\netcoreapp1.1\CommunicationDevice.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\obj\Debug\netcoreapp1.1\CommunicationDevice.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\obj\Debug\netcoreapp1.1\CommunicationDevice.Test.dll
+C:\Users\rparkar\Desktop\Assignments\CommunicationDevice\CommunicationDevice.Test\obj\Debug\netcoreapp1.1\CommunicationDevice.Test.pdb
